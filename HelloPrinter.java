@@ -1,7 +1,7 @@
 /*******************************************************************
 * HelloPrinter
 ********************************************************************
-* Project 01 - Your Name in Code
+* Lab 1
 *___________________________________________________________________
 * Yashna Nainani
 * January 16, 2019
@@ -13,7 +13,7 @@ public class HelloPrinter {
 	public static void printHeading() {
 		System.out.println("Yashna Nainani");
 		System.out.println("HelloPrinter");
-		System.out.println("Your Name in Code");
+		System.out.println("Lab 1");
 		System.out.println("January 16, 2019");
 		System.out.println("CMSC 255 - 04");
 		System.out.println();
@@ -24,4 +24,3 @@ public class HelloPrinter {
 		System.out.println("Hello");
 	}
 }
-
