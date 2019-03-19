@@ -1,0 +1,8 @@
+Honda Civic	450	20.1	17000	17.5	
+Ford Pinto	350	12.5	8000	2.3	
+Mercedes A220	400	20.5	75000	19.6	
+Toyota Sienna	300	17.5	36000	12.2	
+Kia Sorento	320	15.9	23000	13.4	
+Hyundai Santa Fe	330	13.6	25000	14.0	
+Audi R8	380	16.9	66000	19.4	
+Acura MDX	340	15.3	46000	18.5	
